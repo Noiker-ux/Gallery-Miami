@@ -1,0 +1,1 @@
+# Gallery-Swiper.js
